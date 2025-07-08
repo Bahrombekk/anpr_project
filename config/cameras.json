@@ -1,0 +1,15 @@
+{
+    "cameras": [
+      {
+        "id": "cam01",
+        "name": "Asosiy Kirish",
+        "location": "Bosh ofis eshigi",
+        "source": "videos/20241219_20241219175204_20241219175234_175204.mp4",
+        "lines": {
+          "entry_line": { "x1": 500, "y1": 900, "x2": 1800, "y2": 900 },
+          "left_guard": { "x1": 450, "y1": 500, "x2": 550, "y2": 1100 },
+          "right_guard": { "x1": 1850, "y1": 510, "x2": 1750, "y2": 1080 }
+        }
+      }
+    ]
+  }

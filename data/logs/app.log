@@ -1,0 +1,14 @@
+2025-07-08 17:12:43,720 - INFO - ✅ Model muvaffaqiyatli yuklandi: models/model.pt
+2025-07-08 17:12:43,770 - INFO - Dastur ishga tushdi. Chiqish uchun 'q' tugmasini bosing.
+2025-07-08 17:12:50,715 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250708_171250_702627.jpg
+2025-07-08 17:12:50,715 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250708_171250_702627.jpg
+2025-07-08 17:12:55,855 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250708_171255_842462.jpg
+2025-07-08 17:12:55,855 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250708_171255_842462.jpg
+2025-07-08 17:12:59,921 - ERROR - Kadr o'qib bo'lmadi!
+2025-07-08 17:18:18,106 - INFO - ✅ Model muvaffaqiyatli yuklandi: models/model.pt
+2025-07-08 17:18:18,157 - INFO - Dastur ishga tushdi. Chiqish uchun 'q' tugmasini bosing.
+2025-07-08 17:18:25,149 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250708_171825_136181.jpg
+2025-07-08 17:18:25,149 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250708_171825_136181.jpg
+2025-07-08 17:18:30,208 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250708_171830_196101.jpg
+2025-07-08 17:18:30,208 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250708_171830_196101.jpg
+2025-07-08 17:18:34,362 - ERROR - Kadr o'qib bo'lmadi!
