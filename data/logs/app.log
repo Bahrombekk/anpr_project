@@ -12,3 +12,57 @@
 2025-07-08 17:18:30,208 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250708_171830_196101.jpg
 2025-07-08 17:18:30,208 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250708_171830_196101.jpg
 2025-07-08 17:18:34,362 - ERROR - Kadr o'qib bo'lmadi!
+2025-07-09 20:34:06,046 - INFO - ✅ Model muvaffaqiyatli yuklandi: models/model.pt
+2025-07-09 20:34:06,153 - INFO - Dastur ishga tushdi. Chiqish uchun 'q' tugmasini bosing.
+2025-07-09 20:34:45,337 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250709_203445_315473.jpg
+2025-07-09 20:34:45,337 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250709_203445_315473.jpg
+2025-07-09 20:34:45,742 - INFO - ✅ Aniqlangan raqam: 10H889XA (Ishonch: 0.83)
+2025-07-09 20:34:45,742 - INFO - ✅ Valid raqam: 10H889XA
+2025-07-09 20:35:14,698 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250709_203514_679533.jpg
+2025-07-09 20:35:14,698 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250709_203514_679533.jpg
+2025-07-09 20:35:14,839 - INFO - ✅ Aniqlangan raqam: 10P017XA (Ishonch: 0.89)
+2025-07-09 20:35:14,839 - INFO - ✅ Valid raqam: 10P017XA
+2025-07-09 20:57:31,423 - INFO - ✅ Model muvaffaqiyatli yuklandi: models/model.pt
+2025-07-09 20:57:31,515 - INFO - Dastur ishga tushdi. Chiqish uchun 'q' tugmasini bosing.
+2025-07-09 20:57:39,997 - ERROR - ❌ Xatolik yuz berdi: too many values to unpack (expected 2)
+2025-07-09 20:57:59,562 - INFO - ✅ Model muvaffaqiyatli yuklandi: models/model.pt
+2025-07-09 20:57:59,655 - INFO - Dastur ishga tushdi. Chiqish uchun 'q' tugmasini bosing.
+2025-07-09 20:58:33,506 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250709_205833_489303.jpg
+2025-07-09 20:58:33,507 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250709_205833_489303.jpg
+2025-07-09 20:58:33,915 - INFO - ✅ Aniqlangan raqam: 10H889XA (Ishonch: 0.83)
+2025-07-09 20:58:33,916 - INFO - ✅ Valid raqam: 10H889XA
+2025-07-09 20:58:58,954 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250709_205858_928722.jpg
+2025-07-09 20:58:58,954 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250709_205858_928722.jpg
+2025-07-09 20:58:59,098 - INFO - ✅ Aniqlangan raqam: 10P017XA (Ishonch: 0.89)
+2025-07-09 20:58:59,098 - INFO - ✅ Valid raqam: 10P017XA
+2025-07-09 21:17:44,447 - INFO - ✅ Model muvaffaqiyatli yuklandi: models/model.pt
+2025-07-09 21:17:44,539 - INFO - Dastur ishga tushdi. Chiqish uchun 'q' tugmasini bosing.
+2025-07-09 21:18:18,605 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250709_211818_588210.jpg
+2025-07-09 21:18:18,605 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250709_211818_588210.jpg
+2025-07-09 21:18:19,044 - INFO - ✅ Aniqlangan raqam: 10H889XA (Ishonch: 0.83)
+2025-07-09 21:18:19,044 - INFO - ✅ Valid raqam: 10H889XA
+2025-07-09 21:18:43,420 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250709_211843_402370.jpg
+2025-07-09 21:18:43,420 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250709_211843_402370.jpg
+2025-07-09 21:18:43,546 - INFO - ✅ Aniqlangan raqam: 10P017XA (Ishonch: 0.89)
+2025-07-09 21:18:43,546 - INFO - ✅ Valid raqam: 10P017XA
+2025-07-10 10:47:10,392 - INFO - ✅ Model muvaffaqiyatli yuklandi: models/model.pt
+2025-07-10 10:47:10,517 - INFO - Dastur ishga tushdi. Chiqish uchun 'q' tugmasini bosing.
+2025-07-10 10:47:45,076 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250710_104745_050244.jpg
+2025-07-10 10:47:45,076 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250710_104745_050244.jpg
+2025-07-10 10:47:45,500 - INFO - ✅ Aniqlangan raqam: 10H889XA (Ishonch: 0.83)
+2025-07-10 10:47:45,500 - INFO - ✅ Valid raqam: 10H889XA
+2025-07-10 10:48:09,905 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250710_104809_888569.jpg
+2025-07-10 10:48:09,905 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250710_104809_888569.jpg
+2025-07-10 10:48:10,019 - INFO - ✅ Aniqlangan raqam: 10P017XA (Ishonch: 0.89)
+2025-07-10 10:48:10,019 - INFO - ✅ Valid raqam: 10P017XA
+2025-07-10 10:57:22,743 - INFO - ✅ Model muvaffaqiyatli yuklandi: models/model.pt
+2025-07-10 10:57:22,833 - INFO - Dastur ishga tushdi. Chiqish uchun 'q' tugmasini bosing.
+2025-07-10 10:57:58,549 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250710_105758_525746.jpg
+2025-07-10 10:57:58,549 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250710_105758_525746.jpg
+2025-07-10 10:57:58,991 - INFO - ✅ Aniqlangan raqam: 10H889XA (Ishonch: 0.83)
+2025-07-10 10:57:58,992 - INFO - ✅ Valid raqam: 10H889XA
+2025-07-10 10:58:23,607 - INFO - ✅ Rasm saqlandi: data/output/full_frame_20250710_105823_585490.jpg
+2025-07-10 10:58:23,607 - INFO - ✅ Kesib olingan raqam: data/output/cropped_plates/plate_20250710_105823_585490.jpg
+2025-07-10 10:58:23,725 - INFO - ✅ Aniqlangan raqam: 10P017XA (Ishonch: 0.89)
+2025-07-10 10:58:23,725 - INFO - ✅ Valid raqam: 10P017XA
+2025-07-10 10:58:43,437 - ERROR - Kadr o'qib bo'lmadi!
